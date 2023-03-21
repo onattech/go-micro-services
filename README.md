@@ -4,4 +4,6 @@ This repo is a demostration of what I know about seting up a GO project with mul
 
 Here's what the topology looks like:
 
-![image](https://user-images.githubusercontent.com/53895969/226555273-7c9f22fd-936a-4f44-9156-58f01a445e04.png)
+![image](https://user-images.githubusercontent.com/53895969/226461950-0ac21fdb-8b2a-42d9-a7d9-379b81782559.png)
+
+
